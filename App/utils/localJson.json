@@ -1,0 +1,205 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "id": 13,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Karnataka",
+            "description": "Karnataka",
+            "teamType": 1,
+            "sequence": 1
+        },
+        {
+            "id": 14,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Tamilnadu",
+            "description": "Tamilnadu",
+            "teamType": 1,
+            "sequence": 2
+        },
+        {
+            "id": 15,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Andhara pradesh/Telangana",
+            "description": "Andhara pradesh/Telangana",
+            "teamType": 1,
+            "sequence": 3
+        },
+        {
+            "id": 16,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Kerala",
+            "description": "Kerala",
+            "teamType": 1,
+            "sequence": 4
+        },
+        {
+            "id": 17,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Maharashtra",
+            "description": "Maharashtra",
+            "teamType": 1,
+            "sequence": 5
+        },
+        {
+            "id": 18,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "GOA",
+            "description": "GOA",
+            "teamType": 1,
+            "sequence": 6
+        },
+        {
+            "id": 19,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Madhya Pradesh",
+            "description": "Madhya Pradesh",
+            "teamType": 1,
+            "sequence": 7
+        },
+        {
+            "id": 20,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Bihar",
+            "description": "Bihar",
+            "teamType": 1,
+            "sequence": 8
+        },
+        {
+            "id": 21,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Jharkhand",
+            "description": "Jharkhand",
+            "teamType": 1,
+            "sequence": 9
+        },
+        {
+            "id": 22,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "West bengal",
+            "description": "West bengal",
+            "teamType": 1,
+            "sequence": 10
+        },
+        {
+            "id": 23,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Odisha",
+            "description": "Odisha",
+            "teamType": 1,
+            "sequence": 11
+        },
+        {
+            "id": 24,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Chhattisgarh",
+            "description": "Chhattisgarh",
+            "teamType": 1,
+            "sequence": 12
+        },
+        {
+            "id": 25,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Gujarat",
+            "description": "Gujarat",
+            "teamType": 1,
+            "sequence": 13
+        },
+        {
+            "id": 26,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Rajasthan",
+            "description": "Rajasthan",
+            "teamType": 1,
+            "sequence": 14
+        },
+        {
+            "id": 27,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Uttarakhand",
+            "description": "Uttarakhand",
+            "teamType": 1,
+            "sequence": 15
+        },
+        {
+            "id": 28,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Uttar pradesh",
+            "description": "Uttar pradesh",
+            "teamType": 1,
+            "sequence": 16
+        },
+        {
+            "id": 29,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Punjab",
+            "description": "Punjab",
+            "teamType": 1,
+            "sequence": 17
+        },
+        {
+            "id": 30,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Haryana",
+            "description": "Haryana",
+            "teamType": 1,
+            "sequence": 18
+        },
+        {
+            "id": 31,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Himachal pradesh",
+            "description": "Himachal pradesh",
+            "teamType": 1,
+            "sequence": 19
+        },
+        {
+            "id": 32,
+            "createdAt": "2020-11-10T12:20:31.000Z",
+            "updatedAt": "2020-11-10T12:20:31.000Z",
+            "isActive": true,
+            "name": "Jammu &Kashmir",
+            "description": "Jammu &Kashmir",
+            "teamType": 1,
+            "sequence": 20
+        }
+    ]
+}
